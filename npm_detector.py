@@ -4,6 +4,8 @@ npm_shai_hulud_detector.py
 
 Scan a macOS (or Linux) machine for installed Node.js packages and compare them
 against a CSV list of impacted packages (e.g., from the "shai-hulud" npm incident).
+
+Created by Juan Garcia 
 """
 
 import argparse

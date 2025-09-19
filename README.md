@@ -20,7 +20,7 @@ It uses the published list of compromised packages from [Endor Labs](https://www
 - **EA-NodejsStatus**  
   - Reports device state: `CLEAR` or lists infected npm packages if found.  
 - **malware_report.csv**  
-  - CSV of impacted npm packages (from Endor Labs).  
+  - CSV of impacted npm packages (from Endor Labs). As days go by there may be more packages added to the list make sure you also verify that the list is up to date.
 - **npm_detector.py**  
   - Core Python detector script.  
 - **npmDetector-unsigned.pkg**  
